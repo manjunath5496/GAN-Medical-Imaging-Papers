@@ -115,7 +115,7 @@ NeuroImage-to-NeuroImage Translation</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(64).pdf" style="text-decoration:none;">Unsupervised Detection of Lesions in Brain MRI using constrained adversarial auto-encoders</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(65).pdf" style="text-decoration:none;">Ecient Active Learning for Image Classification and Segmentation using a Sample Selection and Conditional Generative Adversarial Network </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(65).pdf" style="text-decoration:none;">Efficient Active Learning for Image Classification and Segmentation using a Sample Selection and Conditional Generative Adversarial Network </a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(66).pdf" style="text-decoration:none;">MedGAN: Medical Image Translation using GANs</a></li> 
  
@@ -142,7 +142,7 @@ NeuroImage-to-NeuroImage Translation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(77).pdf" style="text-decoration:none;">GANs for Medical Image Analysis</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(78).pdf" style="text-decoration:none;">Generating diusion MRI scalar maps from T1 weighted images using generative adversarial networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(78).pdf" style="text-decoration:none;">Generating diffusion MRI scalar maps from T1 weighted images using generative adversarial networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Medical-Imaging-Papers/blob/master/gan(79).pdf" style="text-decoration:none;">Conditional Generative Refinement Adversarial Networks for Unbalanced Medical Image Semantic Segmentation</a></li>
 
 
